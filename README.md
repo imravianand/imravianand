@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Ravi%20Anand&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Java%20%7C%20Full%20Stack&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/imravianand/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Java+%2F+Spring+Boot;Ex-SDE+%40+Tata+Technologies+(JLR);500%2B+DSA+Problems+Solved;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Java+%2F+Spring+Boot;SDE+%40+Tata+Technologies+(JLR);600%2B+DSA+Problems+Solved;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/>
