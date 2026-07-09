@@ -42,7 +42,7 @@ public class RaviAnand implements SoftwareEngineer {
     private String role        = "Software Engineer (Java | Full Stack)";
     private String currentFocus = "Backend systems, DSA, and scalable web apps";
     private String pastLife    = "SDE @ Tata Technologies — Jaguar Land Rover";
-    private int    problemsSolved = 500; // and counting...
+    private int    problemsSolved = 600; // and counting...
 
     @Override
     public String[] currentlyLearning() {
@@ -58,8 +58,8 @@ public class RaviAnand implements SoftwareEngineer {
 
 - 🔭 Focused on backend engineering with **Java, Spring Boot & distributed systems**
 - 🌱 Leveling up in **System Design** and **Cloud (AWS)**
-- 💡 500+ problems solved across coding platforms — DSA is my daily habit, not a phase
-- 🎯 Actively looking for **SDE / Software Engineer** roles at product-based companies
+- 💡 600+ problems solved across coding platforms — DSA is my daily habit, not a phase
+<!--- 🎯 Actively looking for **SDE / Software Engineer** roles at product-based companies -->
 - ⚡ Fun fact: I've worked on real production software running inside Jaguar Land Rover plants
 
 <br/>
@@ -68,7 +68,7 @@ public class RaviAnand implements SoftwareEngineer {
 
 <table>
 <tr>
-<td width="140"><b>Aug 2022 – Nov 2023</b></td>
+<!-- <td width="140"><b>Aug 2022 – Nov 2023</b></td> -->
 <td>
 
 **Software Engineer** · Tata Technologies (client: Jaguar Land Rover)
